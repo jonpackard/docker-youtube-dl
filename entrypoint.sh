@@ -1,3 +1,4 @@
+#!/bin/sh
 mkdir -p /data/processed
 chmod 777 /data /data/processed
 cd /data
